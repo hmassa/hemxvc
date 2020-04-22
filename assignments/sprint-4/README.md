@@ -1,4 +1,4 @@
-My web application implementing the single sign on project I selected can be found below:
+My web application implementing the single sign on project I selected can be found at: 
 http://ec2-3-134-97-105.us-east-2.compute.amazonaws.com/
 
 This link will take you to a page where you can select how you would like to sign in to the application (currently, 
