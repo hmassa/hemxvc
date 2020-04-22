@@ -9,4 +9,4 @@ covered by this licenese is available to the public, free of charge, and can be 
 software.  
 The license I would least want to use is the Apache 2.0 License. I think this license gives too much freedom to the recipients of
 the work as they are given the irrevocable right to sell the software. I personally believe that open source software should not 
-be able to be sold for a fee as this takes advantage of the open source concept.
+be able to be taken by another organization and sold for a fee as this takes advantage of the open source concept.
