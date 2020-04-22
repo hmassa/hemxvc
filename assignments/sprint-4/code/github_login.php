@@ -6,7 +6,7 @@
     $config = [
         'callback' => 'http://ec2-3-134-97-105.us-east-2.compute.amazonaws.com/home.php', // Hybridauth\HttpClient\Util::getCurrentUrl() or http://ec2-3-134-97-105.us-east-2.compute.amazonaws.com/hybridauth-3.3.0/examples/example_01.php
 
-        'keys' => [ 'id' => '5b2a5a2cf9c65ed965ab', 'secret' => 'd2b09fd09c69106c053c1724b5fa022cc6ec225b' ], // Your Github application credentials
+        'keys' => [ 'id' => '***', 'secret' => '***' ], // Your Github application credentials
 
         /* optional : set scope
             'scope' => 'user:email', */
