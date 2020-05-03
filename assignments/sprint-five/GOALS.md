@@ -1,2 +1,2 @@
-In this document, describe the purpose of your application, its core audience, and whether you will be collecting or displaying data; 
-or neither. But make the audience and intention of your application clear.
+## Goals
+While I do not have a concrete idea for what I want my application to do yet, I think I am more interested in creating an application that displays data rather than collects it. More specifically, I would like to make an application that provides consise, accurate data and analytics to the public to encourage understanding of difficult or confusing topics. For example, in the class Slack Dr. Goggins mentioned creating a final project using the Covid-19 data from New York Times. I think this could be a very useful project as there is a lot of misinformation circulating in the media, and I think compiling and analyzing the actual data and making it readily available to the public could be vital in fighting this misinformation. 
